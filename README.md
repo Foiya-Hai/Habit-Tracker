@@ -1,7 +1,7 @@
 # About Habit Tracking
 This repository is used for tracking daily habits. The daily tracking of habits and additional tasks improves planning, raises awareness and insight, guides daily actions, strengthens confidence and capability. Each habit has a status, indicated by the color\* of the square icon to its left, and a short label that represents the individual habit. Each habit may be described within a habit-description file, but doing so is not necessary, as ease of personal use is prioritized. A daily habit-tracking-template file should be used to avoid unnecessary rework.
 
-\**For color-blind accessibility, differently shaped or filled symbols can be used as an alternative in daily practice.*
+\*For color-blind accessibility, differently shaped or filled symbols can be used as an alternative in daily practice.
 
 ## Current Scores & Charts
 \<To be generated soon.\>
